@@ -1,0 +1,21 @@
+<template>
+  <div>
+    This will be pre-compiled
+    <img/>
+  </div>
+</template>
+
+<script>
+    export default {
+        el: "#container",
+        data: {
+            message: "Hello"
+        },
+        computed: {
+
+        }
+    }
+</script>
+
+<style>
+</style>
